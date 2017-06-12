@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JKSimpleCalculator_Example' do
+  pod 'JKSimpleCalculator', :path => '../'
+
+  target 'JKSimpleCalculator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
