@@ -1,0 +1,16 @@
+PODS:
+  - JKSimpleCalculator (0.1.0)
+
+DEPENDENCIES:
+  - JKSimpleCalculator (from `../`)
+
+EXTERNAL SOURCES:
+  JKSimpleCalculator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JKSimpleCalculator: 1d9f839af6e3ca038f130680cd666e5bcf6e7cee
+
+PODFILE CHECKSUM: f787fa677849bdfb6777a1cde909610859be9d06
+
+COCOAPODS: 1.1.1

@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JKSimpleCalculator'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of JKSimpleCalculator.'
+  s.summary          = 'Ejemplo de libreria para una calculadora JKSimpleCalculator.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Acá puedes poner toda la descripción de tu librería. Asegurate de explicar lo mas que puedas la funcinalidad de tu libreria en esta parte ya que se usará para mostrarle un detalle mas util a las persona que quieran usarla.
                        DESC
 
-  s.homepage         = 'https://github.com/joseboavita@gmail.com/JKSimpleCalculator'
+  s.homepage         = 'https://github.com/kakashysen/JKSimpleCalculator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'joseboavita@gmail.com' => 'joseapontec@gmail.com' }
-  s.source           = { :git => 'https://github.com/joseboavita@gmail.com/JKSimpleCalculator.git', :tag => s.version.to_s }
+  s.author           = { 'Jose Aponte' => 'joseapontec@gmail.com' }
+  s.source           = { :git => 'https://github.com/kakashysen/JKSimpleCalculator.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -1,6 +1,6 @@
 # JKSimpleCalculator
 
-[![CI Status](http://img.shields.io/travis/joseboavita@gmail.com/JKSimpleCalculator.svg?style=flat)](https://travis-ci.org/joseboavita@gmail.com/JKSimpleCalculator)
+[![CI Status](http://img.shields.io/travis/japonte@jappsku.com/JKSimpleCalculator.svg?style=flat)](https://travis-ci.org/joseboavita@gmail.com/JKSimpleCalculator)
 [![Version](https://img.shields.io/cocoapods/v/JKSimpleCalculator.svg?style=flat)](http://cocoapods.org/pods/JKSimpleCalculator)
 [![License](https://img.shields.io/cocoapods/l/JKSimpleCalculator.svg?style=flat)](http://cocoapods.org/pods/JKSimpleCalculator)
 [![Platform](https://img.shields.io/cocoapods/p/JKSimpleCalculator.svg?style=flat)](http://cocoapods.org/pods/JKSimpleCalculator)
@@ -22,7 +22,7 @@ pod "JKSimpleCalculator"
 
 ## Author
 
-joseboavita@gmail.com, joseapontec@gmail.com
+Jose Aponte joseapontec@gmail.com
 
 ## License
 

@@ -1,0 +1,6 @@
+framework module JKSimpleCalculator {
+  umbrella header "JKSimpleCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}

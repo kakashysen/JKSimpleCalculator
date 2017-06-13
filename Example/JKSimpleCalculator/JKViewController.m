@@ -7,23 +7,21 @@
 //
 
 #import "JKViewController.h"
-
-@interface JKViewController ()
-
-@end
+@import JKSimpleCalculator;
 
 @implementation JKViewController
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+
+    SimpleCalculator *calculator = [SimpleCalculator new];
+    int result = [calculator sumA:1 withB:2];
 }
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
 
 @end
